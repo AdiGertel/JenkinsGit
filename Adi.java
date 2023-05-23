@@ -3,7 +3,7 @@ public class PrintName {
         int repetitionCount = 5; // Set the number of times to repeat the name
 
         for (int i = 0; i < repetitionCount; i++) {
-            System.out.println("Adi");
+            System.out.println("test1");
         }
     }
 }
